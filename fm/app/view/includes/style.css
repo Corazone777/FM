@@ -1,0 +1,16 @@
+.login {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 5vw;
+}
+
+.register {
+	width: 100%;
+	display: grid;
+	justify-content: center;
+	margin-top: 5vw;
+	grid-template-columns: 10vw;
+	column-gap: 10px;
+}
+
